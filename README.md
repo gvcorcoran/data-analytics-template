@@ -1,5 +1,9 @@
 ![Python badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+## Description of project
+
+Here is where you write a description of the project.
+
 ### To do list
 
 ---
